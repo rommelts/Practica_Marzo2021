@@ -1,0 +1,10 @@
+Paginas webs usadas de referencia en las dimensiones:
+
+Para modulo DS3231:
+https://electropeak.com/extremely-accurate-rtc-module      -->{REVISAR ULTIMA IMAGEN}
+http://hobbycomponents.com/images/forum/modules/HCMODU0094_DS3231_Dimensions.png
+https://http2.mlstatic.com/D_NQ_NP_738846-MLA32267974549_092019-O.jpg
+
+Para modulo Micro SD
+https://electropeak.com/micro-sd-tf-card-adapter-module#reviews%20(ver%20ultima%20imagen%20medidas)    -->{REVISAR ULTIMA IMAGEN}
+

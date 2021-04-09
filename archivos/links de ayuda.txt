@@ -1,0 +1,15 @@
+	PAgina de informacion modulo micro sd:
+
+https://lastminuteengineers.com/arduino-micro-sd-card-module-tutorial/
+https://electropeak.com/micro-sd-tf-card-adapter-module#reviews (ver ultima imagen medidas)
+
+	Documentacion para aihinker modelo de esp32
+
+https://docs.ai-thinker.com/en/wifi
+
+	Informacion para ds1302
+https://microcontrollerslab.com/ds1302-rtc-chip-pinout-example-arduino-applications/
+
+	Informacion ds3231
+http://www.openplatform.cc/index.php/home/index/details/apiid/328
+https://electropeak.com/extremely-accurate-rtc-module  (ver ultima imagen)
